@@ -1,4 +1,4 @@
 # Basic-Banking-System
 
-URVI MUDLIAR
+Apeksha Tarate
 The Spark Foundation (GRIP)
