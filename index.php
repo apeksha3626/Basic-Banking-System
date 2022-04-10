@@ -18,6 +18,6 @@
         <button class="secondpg" href="transaction.php">All Transactions</button></a></center>
     </div>
     <footer style="margin-top:180px;color: #000;;">
-        <center><h4>Copyright © Khushi Zope - 2021 GRIP INTERNSHIP Task 1</h4></center>
+        <center><h4>Copyright © Apeksha Tarate - 2022 GRIP INTERNSHIP Task 1</h4></center>
 </body>
 </html>
